@@ -32,8 +32,6 @@ It allows you to check any IPv4 or IPv6 address for VPN, proxy, TOR, hosting, an
 
 You can download the latest version of TrueTraceIP from the [Releases page](https://github.com/CinaxDEV/TrueTraceIP/releases).
 
-*Note: The executable file will be available soon.*
-
 ---
 
 ## Legal
